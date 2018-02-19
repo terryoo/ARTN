@@ -1,4 +1,4 @@
-?More contents will be updated after the review process.
+-More contents will be updated after the review process.
 
 # ARTN
 Deep Temporal Networks for Video Compression Artifact Reduction
@@ -47,7 +47,7 @@ Baseline model: the branches that receive the pre- and post-patches are removed.
 
 |     | QP 34 | QP 37 |QP 42| QP 47|
 |:-------:|:-------:|:-------:|:-------:|:-------:|
-| HEVC  |  34.7265/0.8821 | 33.428/0.8608| 31.1635/0.8202|28.8384/0.7739|
+| HEVC  |  34.7265/0.8821 | 33.4298/0.8608| 31.1635/0.8202|28.8384/0.7739|
 | AR-CNN  |  34.7929/0.8828 | 33.5159/0.8624 | 31.2827/0.8242|28.9797/0.7792|
 | VRCNN  | 34.7267/0.8821|33.4296/0.8608|31.1641/0.8202|28.8390/0.7739|
 |Baseline|34.8638/0.8846|33.5927/0.8636|31.3770/0.8254|29.0260/0.7803|
@@ -60,7 +60,7 @@ Baseline model: the branches that receive the pre- and post-patches are removed.
 | AVC |  35.3253/0.8913| 33.9823/0.8695|31.6603/0.8271|29.2120/0.7777|
 | AR-CNN  |  35.3514/0.8916|34.0071/0.8699|31.7993/0.8305|29.4555/0.7861|
 |Baseline|35.6707/0.8962| 34.2924/0.8751|32.0342/0.8365|29.6045/0.7903|
-|ARTN|35.7868/0.8981|34.4611/0.8776|32.1313/0.8377|29.6632/0.7922|
+|ARTN|**35.7868/0.8981**|**34.4611/0.8776**|**32.1313/0.8377**|**29.6632/0.7922**|
 
 ### MPEG-2
 
@@ -69,7 +69,7 @@ Baseline model: the branches that receive the pre- and post-patches are removed.
 | MPEG-2 | 32.9493/0.8435 | 31.3361 / 0.8086 |
 | AR-CNN  | 33.8265/0.8658 | 32.2970/0.8375 |
 |Baseline| 34.0655/0.8705 | 32.4580/0.8409 |
-|ARTN| 34.2318/0.8719 | 32.5964/0.8434 |
+|ARTN|**34.2318/0.8719**|**32.5964/0.8434**|
 
 <br><br>
 ### Visualized Results
