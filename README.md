@@ -21,7 +21,7 @@ It has been shown that deep convolutional neuralnetworks (CNN) reduce JPEG compr
 
 <br><br>
 ## Deep Temporal Network
-<p align="center"><embed src="/figure/overall.pdf" width="700"></p>
+<p align="center"><embed src="/figure/Overall.pdf" width="700"></p>
 The overall framework of the proposed network, where k, n, s above the convolution layers denote the kernel size, thenumber of output feature maps, and the convolution strides, respectively.
 <br><br>
 
@@ -33,7 +33,7 @@ Comparison of network-in-network structure from the (a) original Inception and (
 
 ## Training & Test Datasets
 
-<img src = "/figure/training.png" width="350"> <img src = "/figure/test.png" width="350">
+<img src = "/figure/training.png" width="400">  <img src = "/figure/test.png" width="400">
 
 The left table is the details of training datasets and the right table is the details of test datasets.
 
@@ -74,13 +74,13 @@ Baseline model: the branches that receive the pre- and post-patches are removed.
 <br><br>
 ### Visualized Results
 
-<img src = "/figure/hevc.png" width="700">
+<img src = "/figure/HEVC.png" width="700">
 Results for HEVC.
 
 <img src = "/figure/avc.png" width="700">
 Results for AVC.
 
-<img src = "/figure/mpeg2.png" width="700">
+<img src = "/figure/MPEG2.png" width="700">
 Results for MPEG-2.
 
 - Video results for MPEG-2 <a href="http://"> Link </a>
