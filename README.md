@@ -33,7 +33,7 @@ Comparison of network-in-network structure from the (a) original Inception and (
 
 ## Training & Test Datasets
 
-<img src = "/figure/training.png" width="400">  <img src = "/figure/test.png" width="400">
+<img src = "/figure/training.png" width="400">nbsp;nbsp;<img src = "/figure/test.png" width="400">
 
 The left table is the details of training datasets and the right table is the details of test datasets.
 
