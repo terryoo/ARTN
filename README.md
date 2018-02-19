@@ -74,13 +74,13 @@ Baseline model: the branches that receive the pre- and post-patches are removed.
 <br><br>
 ### Visualized Results
 
-<img src = "/figure/HEVC.png" width="700">
+<img src = "/figure/HEVC.png" width="900">
 Results for HEVC.
 
-<img src = "/figure/avc.png" width="700">
+<img src = "/figure/avc.png" width="900">
 Results for AVC.
 
-<img src = "/figure/MPEG2.png" width="700">
+<img src = "/figure/MPEG2.png" width="900">
 Results for MPEG-2.
 
 - Video results for MPEG-2 <a href="http://"> Link </a>
