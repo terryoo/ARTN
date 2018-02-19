@@ -21,7 +21,7 @@ It has been shown that deep convolutional neuralnetworks (CNN) reduce JPEG compr
 
 <br><br>
 ## Deep Temporal Network
-<p align="center"><img src="/figure/Overall.png" width="700"></p>
+<p align="center"><img src="/figure/Overall.png" width="900"></p>
 The overall framework of the proposed network, where k, n, s above the convolution layers denote the kernel size, thenumber of output feature maps, and the convolution strides, respectively.
 <br><br>
 
